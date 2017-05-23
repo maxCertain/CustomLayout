@@ -63,7 +63,7 @@
                             <constraint firstItem="4Md-SG-deT" firstAttribute="leading" secondItem="W2e-6K-WZW" secondAttribute="leading" id="2d6-Ko-70k"/>
                             <constraint firstAttribute="trailing" secondItem="4Md-SG-deT" secondAttribute="trailing" id="Gdr-M3-qvs"/>
                             <constraint firstItem="cds-bj-nyS" firstAttribute="top" secondItem="4Md-SG-deT" secondAttribute="bottom" id="eUj-I5-R69"/>
-                            <constraint firstItem="4Md-SG-deT" firstAttribute="top" secondItem="e3c-5t-exk" secondAttribute="bottom" id="oTu-so-YuS"/>
+                            <constraint firstItem="4Md-SG-deT" firstAttribute="top" secondItem="e3c-5t-exk" secondAttribute="bottom" constant="-64" id="oTu-so-YuS"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="8L7-et-70P"/>

@@ -21,6 +21,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    
+    
     self.navigationController.navigationBar.barTintColor = [UIColor groupTableViewBackgroundColor];
     
     CustomLayOut *layOut = [[CustomLayOut alloc] init];
